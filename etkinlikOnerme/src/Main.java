@@ -16,6 +16,8 @@ public class Main {
             System.out.println("Piknik yapmaya gidebilirsin!");
         }else if(weather >= 25){
             System.out.println("Hava çok sıcak! Bence yüzmeye gitmelisin");
+        }else{
+            System.out.println("Hatalı bir değer girdiniz!");
         }
 
     }
