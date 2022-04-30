@@ -34,6 +34,8 @@ public class Main {
             System.out.println("Çin Zodyağı Burcunuz: At");
         }else if (dogumYili %12 == 11) {
             System.out.println("Çin Zodyağı Burcunuz: Koyun");
+        }else{
+            System.out.println("Hatalı değer girdiniz!");
         }
 
     }
